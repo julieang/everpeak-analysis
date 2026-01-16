@@ -13,7 +13,7 @@ El dataset `everpeak_retail` contiene órdenes de clientes con distintos problem
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PEGA_AQUI_EL_LINK_DEL_NOTEBOOK_EN_GITHUB)
+https://colab.research.google.com/drive/1Ue4Yt9li_QDwuVsQF69JuQsMxwd_fDjF?usp=sharing
 
 O sigue estos pasos:
 
